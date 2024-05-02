@@ -1,0 +1,126 @@
+.footerr {
+    background-color: #236d3e;
+}
+
+.senti {
+    display: flex;
+    gap: 260px;
+
+}
+
+.sol h1 {
+    padding-top: 92px;
+    width: 333px;
+    color: white;
+    font-size: 48px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 64px;
+    word-wrap: break-word;
+}
+
+.solu img {
+    padding-top: 62px;
+}
+
+.solu p {
+    width: 399px;
+    opacity: 0.80;
+    color: white;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 500;
+    padding-top: 6px;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+.sol p {
+    width: 436px;
+    opacity: 0.80;
+    color: #FFFFEB;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 400;
+    padding-top: 13px;
+    margin: 0;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+.social-net {
+    display: flex;
+    gap: 26px;
+    padding-top: 26px;
+}
+
+.contact-footer ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 95px;
+    width: 511px;
+}
+
+.cnt {
+    color: #282938;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 32px;
+    word-wrap: break-word;
+    padding-top: 18px;
+}
+
+.cntt {
+    opacity: 0.80;
+    color: #282938;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+.contact-footer {
+    background-color: #fffb00;
+    position: relative;
+    top: 16px;
+    z-index: 1000;
+}
+
+.copyriht {
+    background-color: white;
+}
+
+.copy {
+    display: flex;
+    gap: 567px;
+    padding-top: 32px;
+}
+
+.text-rih p {
+    color: #282938;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 28px;
+    word-wrap: break-word;
+    width: 242px;
+}
+
+.link-rih {
+    display: flex;
+    gap: 15px;
+}
+
+
+.link-rih li a {
+    width: 61px;
+    height: 30px;
+    color: #282938;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 28px;
+    word-wrap: break-word;
+}
